@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SecureCash_ATM_Web_App.props" />
+</Project>

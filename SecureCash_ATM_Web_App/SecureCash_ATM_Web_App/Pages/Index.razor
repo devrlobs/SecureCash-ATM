@@ -1,0 +1,22 @@
+﻿@page "/"
+@using Microsoft.EntityFrameworkCore
+@using SecureCash_ATM_Web_App.Data;
+
+
+<PageTitle>Index</PageTitle>
+
+
+@foreach(var cstumer in customer)
+{
+    <p> @cstumer.FirstName</p><br />
+}
+
+
+@inject AppDbContext dbContext
+@code {
+    List<Customer> customer = new List<Customer>();
+    protected override async Task OnInitializedAsync()
+    {
+        customer = await dbContext.Customers.ToListAsync();
+    }
+}
