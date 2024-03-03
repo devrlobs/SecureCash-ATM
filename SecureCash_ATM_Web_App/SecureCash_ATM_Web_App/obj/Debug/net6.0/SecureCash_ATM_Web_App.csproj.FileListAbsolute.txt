@@ -67,3 +67,4 @@ C:\Users\actro\Documents\GitHub\SecureCash-ATM\SecureCash_ATM_Web_App\SecureCash
 C:\Users\actro\Documents\GitHub\SecureCash-ATM\SecureCash_ATM_Web_App\SecureCash_ATM_Web_App\obj\Debug\net6.0\SecureCash_ATM_Web_App.pdb
 C:\Users\actro\Documents\GitHub\SecureCash-ATM\SecureCash_ATM_Web_App\SecureCash_ATM_Web_App\obj\Debug\net6.0\SecureCash_ATM_Web_App.genruntimeconfig.cache
 C:\Users\actro\Documents\GitHub\SecureCash-ATM\SecureCash_ATM_Web_App\SecureCash_ATM_Web_App\obj\Debug\net6.0\ref\SecureCash_ATM_Web_App.dll
+C:\Users\actro\Documents\GitHub\SecureCash-ATM\SecureCash_ATM_Web_App\SecureCash_ATM_Web_App\obj\Debug\net6.0\SecureCash_ATM_Web_App.sourcelink.json
